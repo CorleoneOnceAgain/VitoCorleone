@@ -2,8 +2,8 @@
   "name": "THE GODFATHER",
   "symbol": "CORLEONE",
   "description": "Never tell anyone outside the family what you're thinking",
-  "image": "http://corleone.strangled.net/image.png",
-  "external_url": "http://corleone.strangled.net/",
+  "image": "https://corleone.strangled.net/image.png",
+  "external_url": "https://corleone.strangled.net/",
   "attributes": [
     { "trait_type": "Supply", "value": "1B" }
   ]
